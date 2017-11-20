@@ -1,0 +1,19 @@
+.resp-1200, .resp-800{
+	display: none;
+}
+@media screen and (max-width: 1200px) {
+	.img-big{
+		display: none
+	}
+	.resp-1200{
+		display: block;
+	}
+}
+@media screen and (max-width: 800px) {
+	.resp-1200 {
+		display: none;
+	}
+	.resp-800{
+		display: block;
+	}
+}
