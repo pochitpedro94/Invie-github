@@ -1,2 +1,2 @@
 # Invie-github
-Curso de git-gihub
+Curso de git-github
